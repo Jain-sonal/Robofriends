@@ -1,62 +1,62 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Sangeetha',
+    username: 'Sangu',
+    email: 'sangeetha6754@gmail.com'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'Sonal',
+    username: 'hachi',
+    email: 'sonaljain.mcs@gmail.com'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Sejal',
+    username: 'Keju',
+    email: 'sejaljain.293@gmail.com'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Chain Raj',
+    username: 'Chainu',
+    email: 'raj_saklecha@yahoo.com'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Himanshu',
+    username: 'Shu',
+    email: 'himanshu.ayo@gmail.com'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'Ritesh',
+    username: 'Pintu',
+    email: 'ritesh@dm.com'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    name: 'Pooja',
+    username: 'Pooju',
+    email: 'poochillax@gmail.com'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Sakshi',
+    username: 'Dingu',
+    email: 'sakshiii@dancer.com'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    name: 'Shriya',
+    username: 'Chiru',
+    email: 'chiru@moron.com'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    name: 'Shwetha',
+    username: 'Shwethamma',
+    email: 'shwethasuhas@roommate.com'
   }
 ];
